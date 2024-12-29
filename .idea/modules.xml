@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAY Simple/ARRAY Simple.iml" filepath="$PROJECT_DIR$/ARRAY Simple/ARRAY Simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Method/Array Method.iml" filepath="$PROJECT_DIR$/Array Method/Array Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Do while loop/Do while loop.iml" filepath="$PROJECT_DIR$/Do while loop/Do while loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Initalization program/Initalization program.iml" filepath="$PROJECT_DIR$/Initalization program/Initalization program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods program/Methods program.iml" filepath="$PROJECT_DIR$/Methods program/Methods program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern 1 Dec/Pattern 1 Dec.iml" filepath="$PROJECT_DIR$/Pattern 1 Dec/Pattern 1 Dec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Diamond/Pattern Diamond.iml" filepath="$PROJECT_DIR$/Pattern Diamond/Pattern Diamond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patternjava/Patternjava.iml" filepath="$PROJECT_DIR$/Patternjava/Patternjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratice Java.iml" filepath="$PROJECT_DIR$/Pratice Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratice Program/Pratice Program.iml" filepath="$PROJECT_DIR$/Pratice Program/Pratice Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Number/Programming Number.iml" filepath="$PROJECT_DIR$/Programming Number/Programming Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Program/String Program.iml" filepath="$PROJECT_DIR$/String Program/String Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variable/Variable.iml" filepath="$PROJECT_DIR$/Variable/Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While loop/While loop.iml" filepath="$PROJECT_DIR$/While loop/While loop.iml" />
+    </modules>
+  </component>
+</project>

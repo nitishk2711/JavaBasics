@@ -1,0 +1,26 @@
+import java.util.Scanner;
+public class Factroial {
+	
+	static int getFact(int x) {
+		int Fact=1;
+		while(x>1) {
+			Fact=Fact*x;
+			x--;
+		}
+		return Fact;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the number: ");
+		int n=sc.nextInt();
+		
+		int x=getFact(n);
+		System.out.println("factroial of n is: "+n);
+		getFact(8);
+		
+
+	}
+
+}

@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class Special2no {
+	
+	static boolean isSpecial(int x) {
+		int d1
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter a number: ");
+		int n=sc.nextInt();
+		
+		boolean rs=isSpecial(n);
+		if(rs==true)
+			System.out.println(n+" is a Special two number");
+		else
+			System.out.println(n+" is a not two Special method");
+		
+
+	}
+
+}

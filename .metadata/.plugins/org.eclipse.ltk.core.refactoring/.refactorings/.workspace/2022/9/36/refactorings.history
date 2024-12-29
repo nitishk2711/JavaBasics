@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;initalization program&apos; to &apos;Initalization program&apos;" description="Rename resource &apos;initalization program&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/initalization program" name="Initalization program" stamp="1662200275438" updateReferences="true"/>
+</session>

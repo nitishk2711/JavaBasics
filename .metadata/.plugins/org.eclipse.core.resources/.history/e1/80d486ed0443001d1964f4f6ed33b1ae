@@ -1,0 +1,30 @@
+
+public class Student {
+	String name, branch;
+	int Yop;
+	double perc;
+	public Student(String name, String branch, int Yop, double perc) {
+		this.name = name;
+		this.branch = branch;
+		this.Yop = Yop;
+		this.perc = perc;
+	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return this.name+" "+this.branch+" "+this.Yop+" "+this.perc;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Student s1 = new Student("RAJA","ME",2021,85);
+		Student s2 = new Student("PREMA","CSE",2022,99);
+		Student s3 = new Student("TEJU","CIVIL",2022,99);
+		
+		Student x[] = {s1,s2,s3};
+		for(int i=0; i<=x.length; i++) {
+			System.out.println(x[i]);
+		}
+	}
+
+}
